@@ -1,0 +1,21 @@
+{
+    "name": "PWA Application",
+    "short_name": "PWA-A",
+    "description": "Just learning.",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#3f51b5",
+    "background_color": "#3f51b5",
+    "icons": [
+      {
+        "src": "icon/app-icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "icon/app-icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
